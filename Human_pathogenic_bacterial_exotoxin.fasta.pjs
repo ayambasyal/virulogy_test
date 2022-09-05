@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Human_pathogenic_bacterial_exotoxin.fasta",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Human_pathogenic_bacterial_exotoxin.fasta",
+  "number-of-letters": 122127,
+  "number-of-sequences": 229,
+  "last-updated": "2022-09-04T12:59:00",
+  "number-of-volumes": 1,
+  "bytes-total": 223756,
+  "bytes-to-cache": 124349,
+  "files": [
+    "Human_pathogenic_bacterial_exotoxin.fasta.pdb",
+    "Human_pathogenic_bacterial_exotoxin.fasta.phr",
+    "Human_pathogenic_bacterial_exotoxin.fasta.pin",
+    "Human_pathogenic_bacterial_exotoxin.fasta.pog",
+    "Human_pathogenic_bacterial_exotoxin.fasta.pos",
+    "Human_pathogenic_bacterial_exotoxin.fasta.pot",
+    "Human_pathogenic_bacterial_exotoxin.fasta.psq",
+    "Human_pathogenic_bacterial_exotoxin.fasta.ptf",
+    "Human_pathogenic_bacterial_exotoxin.fasta.pto"
+  ]
+}

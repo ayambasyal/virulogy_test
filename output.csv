@@ -1,0 +1,21 @@
+,Sequences producing significant alignments:                          (Bits)  Value
+0,C3TD87 Hemolysin E OS=Escherichia coli GN=ECs1677 PE=4 SV=1           581     0.0
+1,Q8Z727 Hemolysin E OS=Salmonella typhi GN=hlyE PE=3 SV=3              540     2e-174
+2,D0HWK0 Hemolysin OS=Vibrio cholerae CT 5369-93 GN=VIH_000812 PE=4...  311     1e-94
+3,Q7BCK4 Outer membrane protein IcsA autotransporter OS=Shigella fl...  333     3e-93
+4,C6YLY8 Hemolysin OS=Vibrio cholerae MO10 GN=VchoM_03751 PE=4 SV=1     283     4e-86
+5,B5SU17 Truncated cytolysin A OS=Shigella flexneri GN=clyA PE=4 SV=1   228     1e-68
+6,Q897Y4 Hemolysin III OS=Clostridium tetani GN=CTC_00586 PE=4 SV=1     166     1e-45
+7,P54176 Hemolysin-3 OS=Bacillus cereus PE=3 SV=1                       162     5e-44
+8,A3EP22 Hemolysin (Fragment) OS=Vibrio cholerae V51 GN=VCV51_0118 ...  117     5e-28
+9,Q8ZNG2 Deubiquitinase sseL OS=Salmonella typhimurium GN=sseL PE=1...  101     1e-21
+10,A1YKW6 TolC OS=Kingella kingae GN=tolC PE=4 SV=1                      97.8    7e-20
+11,Q9EZE7 Serine protease espC OS=Escherichia coli O127:H6 (strain E...  63.5    1e-08
+12,Q7BSW5 Serine protease espP OS=Escherichia coli O157:H7 GN=espP P...  63.2    2e-08
+13,P09790 IgA-specific serine endopeptidase autotransporter OS=Neiss...  56.6    2e-06
+14,D7HMR6 Hemolysin OS=Vibrio cholerae MAK 757 GN=A53_03303 PE=4 SV=1    49.3    5e-06
+15,Q73VP2 LepB OS=Mycobacterium paratuberculosis GN=lepB PE=3 SV=1       52.4    1e-05
+16,O88093 Hemoglobin-binding protease hbp autotransporter OS=Escheri...  51.6    6e-05
+17,"Q897D0 Zn-dependent peptidase, insulinase family OS=Clostridium t...  46.6    0.002"
+18,Q9KS12 RTX toxin RtxA OS=Vibrio cholerae GN=VC_1451 PE=1 SV=1         45.8    0.003
+19,Q9ZCD8 Phospholipase D OS=Rickettsia prowazekii (strain Madrid E)...  43.1    0.005
